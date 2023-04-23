@@ -1,0 +1,42 @@
+body {
+    background-color: aquamarine;
+}
+
+.border {
+    text-align: center;
+    background-color: #fff;
+    width: 900px;
+    height: 500px;
+    border-radius: 9%;
+    margin: 0 auto;
+    margin-top: 80px;
+    
+}
+
+.box {
+    display: inline-block;
+    padding: 20px;
+    margin: 50px;
+}
+
+h2.box1 {
+     color: gray;
+     
+}
+
+span.box1 {
+    color: rgb(11, 11, 11);
+    
+}
+
+h2.box2 {
+
+    color: rgb(238, 193, 12);
+
+
+}
+
+h2.box3{
+    color: rgb(224, 25, 25);
+}
+
